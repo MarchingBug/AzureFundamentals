@@ -21,5 +21,5 @@
 
   - Cost Management
   - ARM Templates
-  - 
+  
   
