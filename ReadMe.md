@@ -25,7 +25,7 @@ If you don't have an Azure subscription, create a [free account] now.
 - [Backup a Virtual Machine]
 - [Clean Up]
 
-  [Open Azure CLI]:<\OpenAzureCLI\OpenAzureCLI.md>
+  [Open Azure CLI]:<repo/blob/master/OpenAzureCLI/OpenAzureCLI.md>
   [Create a Resource Group]:<\CreateResourceGroup\CreateResourceGroup.md>
   [Create a Virtual Network]:<\VirtualNetwork\VirtualNetwork.md>
   [Create a File Share & Mount to VM]:<\FileShare\CreateAFileShare.md>
