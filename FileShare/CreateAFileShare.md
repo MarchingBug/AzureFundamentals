@@ -138,5 +138,8 @@ usr@myVm2:/mnt/MyAzureFileShare$
 
 Further documentation: [Mount Files Share to Linux VM]
 
+[Next -> Backup a Virtual Machine]
+
 [Create a File Share Documentation]: <https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-cli>
 [Mount Files Share to Linux VM]: <https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-linux>
+[Next -> Backup a Virtual Machine]:<https://github.com/MarchingBug/AzureFundamentals/blob/master/Backup/BackupVM.md>
