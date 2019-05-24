@@ -19,3 +19,8 @@ Where:
 --name --> the name of your group
 
 --location --> region where to launch it
+
+
+ [Next -> Create a Virtual Network]
+
+ [Next -> Create a Virtual Network]:<https://github.com/MarchingBug/AzureFundamentals/blob/master/VirtualNetwork/VirtualNetwork.md>
