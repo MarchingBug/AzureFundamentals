@@ -6,3 +6,7 @@
 
 ![Resource Group](OpenCLI.png)
 
+[Next -> Create a Resource Group]
+
+ [Next -> Create a Resource Group]:<https://github.com/MarchingBug/AzureFundamentals/blob/master/CreateResourceGroup/CreateResourceGroup.md>
+
