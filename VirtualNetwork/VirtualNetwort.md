@@ -87,6 +87,9 @@ Take note of one of the servers listed
 ```sh
 nslookup www.USEDUDemo.xyz ns1-06.azure-dns.com
 ```
+[Next -> Create a File Share & Mount to VM]
+
 [Create Virtual Network Documentation]: <https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-portal>
 [Create DNS Record Documentation]: <https://docs.microsoft.com/en-us/azure/dns/dns-getstarted-cli>
+[Next -> Create a File Share & Mount to VM]:<https://github.com/MarchingBug/AzureFundamentals/blob/master/FileShare/CreateAFileShare.md>
 
