@@ -30,6 +30,6 @@ If you don't have an Azure subscription, create a [free account] now.
   [Create a Virtual Network]:https://github.com/MarchingBug/AzureFundamentals/blob/master/VirtualNetwork/VirtualNetwort.md
   [Create a File Share & Mount to VM]:<https://github.com/MarchingBug/AzureFundamentals/blob/master/FileShare/CreateAFileShare.md>
   [Backup a Virtual Machine]:<https://github.com/MarchingBug/AzureFundamentals/blob/master/Backup/BackupVM.md>
-  [Clean Up]:<https://github.com/MarchingBug/AzureFundamentals/blob/master/CleanUp/CleanUp.md>
+  [Clean Up]:<https://github.com/MarchingBug/AzureFundamentals/blob/master/Cleanup/Cleanup.md>
   [free account]:<https://azure.microsoft.com/en-us/free/?WT.mc_id=A261C142F>
   [Sign in]:<https://portal.azure.com/>
