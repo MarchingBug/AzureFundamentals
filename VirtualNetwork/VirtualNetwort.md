@@ -72,14 +72,14 @@ az network dns zone create -g AzureLab -n adcDemo.xyz
 
 ### Create DNS Record
 ```sh
-az network dns record-set a add-record -g AzureLab -z adcDemo.xyz -n www -a 10.10.10.10
+az network dns record-set a add-record -g AzureLab -z useduDemo.xyz -n www -a 10.10.10.10
 ```
 Further documentation: [Create DNS Record Documentation]
 
 ### List the DNS records in the zone
 
 ```sh
-az network dns record-set list -g AzureLab -z adcDemoUSEDUDemo.xyz
+az network dns record-set list -g AzureLab -z useduDemo.xyz
 ```
 Take note of one of the servers listed
 
